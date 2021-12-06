@@ -1,1 +1,2 @@
-# final-project
+# Data 1030 Final Project: Wine Quality Prediction
+This project attempts to build classification models to predict the quality of a particular white wine. The dataset and code are included in this repository. The code is executed under Python 3.9.7. Some package versions are listed below: numpy version 1.21.1, matplotlib version 3.4.2, sklearn version 0.24.2, pandas version 1.3.1, xgboost version 1.3.3, shap version 0.39.0.
